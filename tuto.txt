@@ -1,0 +1,30 @@
+👋😉Hola Bienvenido al bot
+----------------------------------
+⚙Soporte del bot:
+
+🌟 @Nekoht
+----------------------------------
+🧾Comandos el bot
+
+/start       💥  /tutorial
+/myuser      💥  /account
+/host        💥  /repoid
+/uptype.     💥  /cloud
+/proxy       💥  /dir
+/files       💥  /zips
+/adduser     💥  /banuser
+/tokenize_on 💥  /tokenize_off
+
+✅En la parte izquierda de la parte de abajo se muestra para que son cada comando
+----------------------------------
+🔗Enlaces soportados:
+
+🔻Todos los enlases de descarga directas
+🔻Enlaces de YouTube
+🔻Enlaces de Mega
+🔻Enlaces de MediaFire
+
+🔺Y muchos mas🔻
+----------------------------------
+
+✌️😉Que disfrute el Bot🔥
