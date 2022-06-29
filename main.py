@@ -299,7 +299,7 @@ def onmessage(update,bot:ObigramClient):
             else:
                 bot.sendMessage(update.message.chat.id,'❌No Tiene Permiso❌')
             return
-        if '/getdb' in msgText:
+   ñn msgText:
             isadmin = jdb.is_admin(username)
             if isadmin:
                 bot.sendMessage(update.message.chat.id,'Base De Datos👇')
@@ -307,7 +307,7 @@ def onmessage(update,bot:ObigramClient):
             else:
                 bot.sendMessage(update.message.chat.id,'❌No Tiene Permiso❌')
             return
-        if '/leerdb' in msgText:
+        i in msgText:
             isadmin = jdb.is_admin(username)
             if isadmin:
                 db = open('database.jdb','r')
