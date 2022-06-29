@@ -298,8 +298,7 @@ def onmessage(update,bot:ObigramClient):
                     bot.sendMessage(update.message.chat.id,'❌Error en el comando /banuser username❌')
             else:
                 bot.sendMessage(update.message.chat.id,'❌No Tiene Permiso❌')
-            return
-        if '/getdb' in msgText:
+msgText:
             isadmin = jdb.is_admin(username)
             if isadmin:
                 bot.sendMessage(update.message.chat.id,'Base De Datos👇')
